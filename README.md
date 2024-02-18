@@ -1,6 +1,4 @@
-# flexbox
-
-## Project setup
+## Flexbox Project setup
 ```
 npm i
 ```
